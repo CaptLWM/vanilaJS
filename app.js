@@ -4,7 +4,7 @@ const loginButton = loginForm.querySelector("button");
 
 function handleLoginBtnClick() {
   console.log(loginInput.value);
-  console.log("click!!!");
+  console.log("click!!!!");
 }
 
 loginButton.addEventListener("click", handleLoginBtnClick);
